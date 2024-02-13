@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(68, 64, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: 70px;
+}
+.nav {
+    display: flex;
+    gap: 50px;
+    
+}
+ul {
+    list-style: none;
+}
+a { 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    transition: 2s;
+}
+.minecraft{
+display: flex;
+justify-content: center;
+}
+.mine{
+display: flex;
+justify-content: center;
+}
+.craft{
+    display: flex;
+justify-content: center;
+}
+.pvp{
+    display: flex;
+}
+.minebedwars{
+    display: flex;
+    justify-content: center;
+}
+.minebed{
+    display: flex;
+    justify-content: center;
+}
